@@ -129,6 +129,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/navya609/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/navya609/leetcode-solutions/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/navya609/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/navya609/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
