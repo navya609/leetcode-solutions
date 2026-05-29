@@ -55,6 +55,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/navya609/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/navya609/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/navya609/leetcode-solutions/tree/master/0043-multiply-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/navya609/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/navya609/leetcode-solutions/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/navya609/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/navya609/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
