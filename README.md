@@ -76,6 +76,7 @@
 | [0044-wildcard-matching](https://github.com/navya609/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/navya609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/navya609/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/navya609/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0041-first-missing-positive](https://github.com/navya609/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/navya609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/navya609/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/navya609/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,4 +167,5 @@
 | [0049-group-anagrams](https://github.com/navya609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/navya609/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/navya609/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/navya609/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
