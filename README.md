@@ -56,6 +56,7 @@
 | [0056-merge-intervals](https://github.com/navya609/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/navya609/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/navya609/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0217-contains-duplicate](https://github.com/navya609/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0037-sudoku-solver](https://github.com/navya609/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/navya609/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/navya609/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/navya609/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,4 +164,5 @@
 | [0047-permutations-ii](https://github.com/navya609/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/navya609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/navya609/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/navya609/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
