@@ -58,6 +58,7 @@
 | [0059-spiral-matrix-ii](https://github.com/navya609/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/navya609/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/navya609/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/navya609/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,4 +173,8 @@
 | [0056-merge-intervals](https://github.com/navya609/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/navya609/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/navya609/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/navya609/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
