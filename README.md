@@ -36,6 +36,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navya609/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/navya609/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/navya609/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/navya609/leetcode-solutions/tree/master/0039-combination-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/navya609/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/navya609/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
