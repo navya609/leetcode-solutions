@@ -53,6 +53,7 @@
 | [0053-maximum-subarray](https://github.com/navya609/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/navya609/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/navya609/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/navya609/leetcode-solutions/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +156,5 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/navya609/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/navya609/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/navya609/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
