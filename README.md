@@ -130,6 +130,7 @@
 | [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/navya609/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/navya609/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/navya609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,4 +189,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/navya609/leetcode-solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/navya609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/navya609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
