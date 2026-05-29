@@ -26,6 +26,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/navya609/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/navya609/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/navya609/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/navya609/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/navya609/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/navya609/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## String Matching
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/navya609/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/navya609/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/navya609/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/navya609/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
