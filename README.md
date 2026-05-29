@@ -44,6 +44,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navya609/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/navya609/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/navya609/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
