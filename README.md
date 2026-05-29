@@ -32,6 +32,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navya609/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/navya609/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/navya609/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/navya609/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/navya609/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/navya609/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
