@@ -43,6 +43,7 @@
 | [0042-trapping-rain-water](https://github.com/navya609/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/navya609/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/navya609/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/navya609/leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0039-combination-sum](https://github.com/navya609/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/navya609/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/navya609/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/navya609/leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/navya609/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/navya609/leetcode-solutions/tree/master/0045-jump-game-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/navya609/leetcode-solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
